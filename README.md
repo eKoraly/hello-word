@@ -1,3 +1,3 @@
 # hello-word
 Tutorial
-Hola que tal, acá aprendiendo algo de GitHub
+Hola qué tal, acá aprendiendo algo de GitHub
